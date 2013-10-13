@@ -1,7 +1,9 @@
 wrf_gad_animations
 ==================
 Author:         gpoisoned == jiwan rana magar
+
 Project Date :  June 24, 2013
+
 Project Loc  :  University of Colorado at Boulder
 
 Project Info:
