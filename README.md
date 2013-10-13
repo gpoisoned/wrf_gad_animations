@@ -6,10 +6,10 @@ Project Loc  :  University of Colorado at Boulder
 
 Project Info:
 ---------------
-	- I got a research grant from UROP CU Boulder (http://enrichment.colorado.edu/urop) for Summer 2013 during 
-		which I worked with Prof. Julie Lundquist (http://atoc.colorado.edu/~jlundqui) in the Dept. of Atomspheric 
-		and Oceanic Science (ATOC)
-	- I learned about running WRF(http://www.wrf-model.org/index.php) simulations and visualizing the output  
+  - I got a research grant from UROP CU Boulder (http://enrichment.colorado.edu/urop) for Summer 2013 during 
+	  which I worked with Prof. Julie Lundquist (http://atoc.colorado.edu/~jlundqui) in the Dept. of 
+          Atomspheric and Oceanic Science (ATOC)
+  - I learned about running WRF(http://www.wrf-model.org/index.php) simulations and visualizing the output  
 	  netcdf files using NCL scripting language (http://www.ncl.ucar.edu/) and VAPOR (http://www.vapor.ucar.edu/)
 	  
 	 
