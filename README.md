@@ -22,7 +22,7 @@ Computing platform and dependencies:
 -------------------------------------
  - Scripts were run on Janus supercomputer (https://www.rc.colorado.edu/node/212) at CU-Boulder.
  - Software used:
- 			-	NCL 
+ 			- NCL 
  			- VAPOR
  			- ffmpeg => http://www.ffmpeg.org/
  			
