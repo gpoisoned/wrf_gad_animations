@@ -1,6 +1,6 @@
 wrf_gad_animations
 ==================
-Author:         gpoisoned == jiwan rana magar
+Author:         gpoisoned 
 
 Project Date :  June 24, 2013
 
