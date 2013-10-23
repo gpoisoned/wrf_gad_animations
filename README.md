@@ -1,4 +1,4 @@
-wrf_gad_animations
+WRF_GAD_Animations
 ==================
 Author:         gpoisoned 
 
