@@ -17,7 +17,7 @@ Project Info:
 	 
 Project Script Doc:
 --------------------
-  - Please find the description at https://github.com/gpoisoned/wrf_gad_animations/tree/master/doc
+  - Please find the description at https://github.com/gpoisoned/wrf_gad_animations/blob/master/doc/README.txt
   
 
 Computing platform and dependencies:
